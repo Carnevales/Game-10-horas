@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 924e7bacca54cb4439e4f6a307e78ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2421714935165840217
+    second: Roll - Sprite Sheet - Transparent BG_0
+  - first:
+      213: -4541713083661321421
+    second: Roll - Sprite Sheet - Transparent BG_1
+  - first:
+      213: 6553909312132549231
+    second: Roll - Sprite Sheet - Transparent BG_2
+  - first:
+      213: -2573411134161089730
+    second: Roll - Sprite Sheet - Transparent BG_3
+  - first:
+      213: -8624923669459044972
+    second: Roll - Sprite Sheet - Transparent BG_4
+  - first:
+      213: -465190887230971199
+    second: Roll - Sprite Sheet - Transparent BG_5
+  - first:
+      213: -9030218094651344998
+    second: Roll - Sprite Sheet - Transparent BG_6
+  - first:
+      213: 3884716825863356569
+    second: Roll - Sprite Sheet - Transparent BG_7
+  - first:
+      213: 6885988474126623509
+    second: Roll - Sprite Sheet - Transparent BG_8
+  - first:
+      213: 5038905910671696801
+    second: Roll - Sprite Sheet - Transparent BG_9
+  - first:
+      213: 707637225633307367
+    second: Roll - Sprite Sheet - Transparent BG_10
+  - first:
+      213: 7764930010135938064
+    second: Roll - Sprite Sheet - Transparent BG_11
+  - first:
+      213: 5414860983205822876
+    second: Roll - Sprite Sheet - Transparent BG_12
+  - first:
+      213: 6344553731053303278
+    second: Roll - Sprite Sheet - Transparent BG_13
+  - first:
+      213: 7718964737633967053
+    second: Roll - Sprite Sheet - Transparent BG_14
+  - first:
+      213: 4939642732733353951
+    second: Roll - Sprite Sheet - Transparent BG_15
+  - first:
+      213: -60857095506988556
+    second: Roll - Sprite Sheet - Transparent BG_16
+  - first:
+      213: -207390937146507154
+    second: Roll - Sprite Sheet - Transparent BG_17
+  - first:
+      213: -4397438371865437231
+    second: Roll - Sprite Sheet - Transparent BG_18
+  - first:
+      213: 7932203100121041809
+    second: Roll - Sprite Sheet - Transparent BG_19
+  - first:
+      213: -7287793428397544483
+    second: Roll - Sprite Sheet - Transparent BG_20
+  - first:
+      213: 956785042216661167
+    second: Roll - Sprite Sheet - Transparent BG_21
+  - first:
+      213: 6271495365322285580
+    second: Roll - Sprite Sheet - Transparent BG_22
+  - first:
+      213: -32214098133332974
+    second: Roll - Sprite Sheet - Transparent BG_23
+  - first:
+      213: -5850201014920958529
+    second: Roll - Sprite Sheet - Transparent BG_24
+  - first:
+      213: 471126885248026618
+    second: Roll - Sprite Sheet - Transparent BG_25
+  - first:
+      213: 8046049581477741141
+    second: Roll - Sprite Sheet - Transparent BG_26
+  - first:
+      213: -2716646717490681050
+    second: Roll - Sprite Sheet - Transparent BG_27
+  - first:
+      213: -9035156006558035624
+    second: Roll - Sprite Sheet - Transparent BG_28
+  - first:
+      213: -4920401494639138812
+    second: Roll - Sprite Sheet - Transparent BG_29
+  - first:
+      213: 2741390165157137203
+    second: Roll - Sprite Sheet - Transparent BG_30
+  - first:
+      213: 7799800021443193383
+    second: Roll - Sprite Sheet - Transparent BG_31
+  - first:
+      213: 1484296037135860448
+    second: Roll - Sprite Sheet - Transparent BG_32
+  - first:
+      213: 470124895043652918
+    second: Roll - Sprite Sheet - Transparent BG_33
+  - first:
+      213: -3480576773898445967
+    second: Roll - Sprite Sheet - Transparent BG_34
+  - first:
+      213: 7017723798530073510
+    second: Roll - Sprite Sheet - Transparent BG_35
+  - first:
+      213: 4481535630805628617
+    second: Roll - Sprite Sheet - Transparent BG_36
+  - first:
+      213: 6303388142012539076
+    second: Roll - Sprite Sheet - Transparent BG_37
+  - first:
+      213: -4191088035360063157
+    second: Roll - Sprite Sheet - Transparent BG_38
+  - first:
+      213: 600572504078935391
+    second: Roll - Sprite Sheet - Transparent BG_39
+  - first:
+      213: -7728154415649155034
+    second: Roll - Sprite Sheet - Transparent BG_40
+  - first:
+      213: -5830123098819129363
+    second: Roll - Sprite Sheet - Transparent BG_41
+  - first:
+      213: -1024152366240103744
+    second: Roll - Sprite Sheet - Transparent BG_42
+  - first:
+      213: 9134237234201284252
+    second: Roll - Sprite Sheet - Transparent BG_43
+  - first:
+      213: 579251664026268078
+    second: Roll - Sprite Sheet - Transparent BG_44
+  - first:
+      213: -802339048503121625
+    second: Roll - Sprite Sheet - Transparent BG_45
+  - first:
+      213: 871860544550328338
+    second: Roll - Sprite Sheet - Transparent BG_46
+  - first:
+      213: 6315684998769405842
+    second: Roll - Sprite Sheet - Transparent BG_47
+  - first:
+      213: -999074392272763726
+    second: Roll - Sprite Sheet - Transparent BG_48
+  - first:
+      213: -6302512294124529949
+    second: Roll - Sprite Sheet - Transparent BG_49
+  - first:
+      213: 2760595791594129627
+    second: Roll - Sprite Sheet - Transparent BG_50
+  - first:
+      213: -4235575267934915911
+    second: Roll - Sprite Sheet - Transparent BG_51
+  - first:
+      213: 4944049693277015477
+    second: Roll - Sprite Sheet - Transparent BG_52
+  - first:
+      213: -7257001144919425504
+    second: Roll - Sprite Sheet - Transparent BG_53
+  - first:
+      213: -2554546452887192404
+    second: Roll - Sprite Sheet - Transparent BG_54
+  - first:
+      213: -5216767290902457628
+    second: Roll - Sprite Sheet - Transparent BG_55
+  - first:
+      213: -420329670793489818
+    second: Roll - Sprite Sheet - Transparent BG_56
+  - first:
+      213: -8864470772127868768
+    second: Roll - Sprite Sheet - Transparent BG_57
+  - first:
+      213: -3245598801707466141
+    second: Roll - Sprite Sheet - Transparent BG_58
+  - first:
+      213: 1491451823300467771
+    second: Roll - Sprite Sheet - Transparent BG_59
+  - first:
+      213: 1926117920713293920
+    second: Roll - Sprite Sheet - Transparent BG_60
+  - first:
+      213: -4517431974512982716
+    second: Roll - Sprite Sheet - Transparent BG_61
+  - first:
+      213: -6976305465070996123
+    second: Roll - Sprite Sheet - Transparent BG_62
+  - first:
+      213: 4920985996232969777
+    second: Roll - Sprite Sheet - Transparent BG_63
+  - first:
+      213: 4171444683063770340
+    second: Roll - Sprite Sheet - Transparent BG_64
+  - first:
+      213: 5482751080891068547
+    second: Roll - Sprite Sheet - Transparent BG_65
+  - first:
+      213: 3300524040930477197
+    second: Roll - Sprite Sheet - Transparent BG_66
+  - first:
+      213: -4855855489365346947
+    second: Roll - Sprite Sheet - Transparent BG_67
+  - first:
+      213: 3486929576177530080
+    second: Roll - Sprite Sheet - Transparent BG_68
+  - first:
+      213: 2777340672113803546
+    second: Roll - Sprite Sheet - Transparent BG_69
+  - first:
+      213: -6292746218753355193
+    second: Roll - Sprite Sheet - Transparent BG_70
+  - first:
+      213: -101657780132612031
+    second: Roll - Sprite Sheet - Transparent BG_71
+  - first:
+      213: 8584775921979652625
+    second: Roll - Sprite Sheet - Transparent BG_72
+  - first:
+      213: -5117238196518376849
+    second: Roll - Sprite Sheet - Transparent BG_73
+  - first:
+      213: 6710741733320894366
+    second: Roll - Sprite Sheet - Transparent BG_74
+  - first:
+      213: 1687569552085357836
+    second: Roll - Sprite Sheet - Transparent BG_75
+  - first:
+      213: 2562394111060842896
+    second: Roll - Sprite Sheet - Transparent BG_76
+  - first:
+      213: 7482913409451001907
+    second: Roll - Sprite Sheet - Transparent BG_77
+  - first:
+      213: -5952865184575042242
+    second: Roll - Sprite Sheet - Transparent BG_78
+  - first:
+      213: -1785597349660171623
+    second: Roll - Sprite Sheet - Transparent BG_79
+  - first:
+      213: 3263657936582694635
+    second: Roll - Sprite Sheet - Transparent BG_80
+  - first:
+      213: -460082120005499255
+    second: Roll - Sprite Sheet - Transparent BG_81
+  - first:
+      213: 4755203844037758590
+    second: Roll - Sprite Sheet - Transparent BG_82
+  - first:
+      213: 4127844160501376651
+    second: Roll - Sprite Sheet - Transparent BG_83
+  - first:
+      213: 8731939414971466884
+    second: Roll - Sprite Sheet - Transparent BG_84
+  - first:
+      213: 7128929664666681793
+    second: Roll - Sprite Sheet - Transparent BG_85
+  - first:
+      213: 6419741226443031380
+    second: Roll - Sprite Sheet - Transparent BG_86
+  - first:
+      213: 4139955429393789726
+    second: Roll - Sprite Sheet - Transparent BG_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 343
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b61d917e8ab9120800000000000000
+      internalID: 2421714935165840217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 348
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b7f90730898f0c0800000000000000
+      internalID: -4541713083661321421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 349
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a09c79bc924fa50800000000000000
+      internalID: 6553909312132549231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 349
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b0b4f3538694cd0800000000000000
+      internalID: -2573411134161089730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 347
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f8039e9d1e4880800000000000000
+      internalID: -8624923669459044972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c269dd4a5f4b89f0800000000000000
+      internalID: -465190887230971199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 343
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977000bc783ea280800000000000000
+      internalID: -9030218094651344998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 343
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990819afe5949e530800000000000000
+      internalID: 3884716825863356569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 343
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51360cf9802ff8f50800000000000000
+      internalID: 6885988474126623509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 343
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e33e7a3acde540800000000000000
+      internalID: 5038905910671696801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 343
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea57b7be4802d900800000000000000
+      internalID: 707637225633307367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 298
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144cef24b292cb60800000000000000
+      internalID: 7764930010135938064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 302
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910b140063752b40800000000000000
+      internalID: 5414860983205822876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 304
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bfc5e0026c0850800000000000000
+      internalID: 6344553731053303278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 301
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb507438854f1b60800000000000000
+      internalID: 7718964737633967053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf49e1e4e22d8440800000000000000
+      internalID: 4939642732733353951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 294
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17e384bcac72ff0800000000000000
+      internalID: -60857095506988556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 295
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604fbd9a033f1df0800000000000000
+      internalID: -207390937146507154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 295
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd943791929f2c0800000000000000
+      internalID: -4397438371865437231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 293
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b87f461b8d41e60800000000000000
+      internalID: 7932203100121041809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 294
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb20ff3d7e8cda90800000000000000
+      internalID: -7287793428397544483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 295
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03bb73dee274d00800000000000000
+      internalID: 956785042216661167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 247
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c022b849ec3d80750800000000000000
+      internalID: 6271495365322285580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc00cc27d8d8ff0800000000000000
+      internalID: -32214098133332974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 252
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbda1013c29efcea0800000000000000
+      internalID: -5850201014920958529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7485fe767c98600800000000000000
+      internalID: 471126885248026618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 252
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552492de67f49af60800000000000000
+      internalID: 8046049581477741141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 247
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bacbf24388c4ad0800000000000000
+      internalID: -2716646717490681050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_28
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 247
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8511fda7b7dac9280800000000000000
+      internalID: -9035156006558035624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 247
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408abb7f8e837bbb0800000000000000
+      internalID: -4920401494639138812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 247
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc0f8a4df5b0620800000000000000
+      internalID: 2741390165157137203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 247
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa43d5bc47e3c60800000000000000
+      internalID: 7799800021443193383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 247
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c003b167499410800000000000000
+      internalID: 1484296037135860448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0529e918368600800000000000000
+      internalID: 470124895043652918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 206
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bde427dd182bfc0800000000000000
+      internalID: -3480576773898445967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 206
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3a03ffc96f36160800000000000000
+      internalID: 7017723798530073510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 205
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6fc6a79ec913e30800000000000000
+      internalID: 4481535630805628617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 201
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0211e4e122a7750800000000000000
+      internalID: 6303388142012539076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 198
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4149fd13a346d5c0800000000000000
+      internalID: -4191088035360063157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 199
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ed7fa289a55800800000000000000
+      internalID: 600572504078935391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6289dd5218410c490800000000000000
+      internalID: -7728154415649155034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 197
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def06125eed371fa0800000000000000
+      internalID: -5830123098819129363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 198
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2026e59da79c1f0800000000000000
+      internalID: -1024152366240103744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 199
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec6b68e5453ce70800000000000000
+      internalID: 9134237234201284252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f6d5c15ae90800800000000000000
+      internalID: 579251664026268078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 156
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729eb88e2e48dd4f0800000000000000
+      internalID: -802339048503121625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 157
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d993cb88791c00800000000000000
+      internalID: 871860544550328338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fe9e06b02d5a750800000000000000
+      internalID: 6315684998769405842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 155
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4846032239222f0800000000000000
+      internalID: -999074392272763726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6dc2ce57af888a0800000000000000
+      internalID: -6302512294124529949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd808660f3b9f4620800000000000000
+      internalID: 2760595791594129627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23f4f1cb63835c0800000000000000
+      internalID: -4235575267934915911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 151
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdc7a7500bcc9440800000000000000
+      internalID: 4944049693277015477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_53
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 151
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e797e68e3f94b90800000000000000
+      internalID: -7257001144919425504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 151
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbc61298d6c8cd0800000000000000
+      internalID: -2554546452887192404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 104
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d1edd9c15a97b0800000000000000
+      internalID: -5216767290902457628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621cc33460ba2af0800000000000000
+      internalID: -420329670793489818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a85c797cc21bf480800000000000000
+      internalID: -8864470772127868768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 111
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3620bc4f51155f2d0800000000000000
+      internalID: -3245598801707466141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 109
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cde6ff783b2b410800000000000000
+      internalID: 1491451823300467771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 103
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06041ab3b02faba10800000000000000
+      internalID: 1926117920713293920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 103
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458926bd8bde41c0800000000000000
+      internalID: -4517431974512982716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 103
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b3dd342f2f2f90800000000000000
+      internalID: -6976305465070996123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 104
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e432ae0bada4440800000000000000
+      internalID: 4920985996232969777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 104
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec353686d2f3e930800000000000000
+      internalID: 4171444683063770340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 104
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b6682f05a61c40800000000000000
+      internalID: 5482751080891068547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844c48d021ddcd20800000000000000
+      internalID: 3300524040930477197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d757fbbe8298c9cb0800000000000000
+      internalID: -4855855489365346947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47dd899ff046030800000000000000
+      internalID: 3486929576177530080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11869550a81b8620800000000000000
+      internalID: 2777340672113803546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 60
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742168987acaba8a0800000000000000
+      internalID: -6292746218753355193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487a8e99c6d69ef0800000000000000
+      internalID: -101657780132612031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_72
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 55
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7ce98730432770800000000000000
+      internalID: 8584775921979652625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a2679f8faebf8b0800000000000000
+      internalID: -5117238196518376849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972bf92d08512d50800000000000000
+      internalID: 6710741733320894366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_75
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 55
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0510d501937b6710800000000000000
+      internalID: 1687569552085357836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 55
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099955c2ed37f8320800000000000000
+      internalID: 2562394111060842896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33885578916a8d760800000000000000
+      internalID: 7482913409451001907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d4d9d77ac236da0800000000000000
+      internalID: -5952865184575042242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99260a5cba84837e0800000000000000
+      internalID: -1785597349660171623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6556a0a97da4d20800000000000000
+      internalID: 3263657936582694635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 13
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986409ddfb57d99f0800000000000000
+      internalID: -460082120005499255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 7
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e4176b3b0edf140800000000000000
+      internalID: 4755203844037758590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86eadac46c094930800000000000000
+      internalID: 4127844160501376651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_84
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844b9552a41e2970800000000000000
+      internalID: 8731939414971466884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c33362cb0fe260800000000000000
+      internalID: 7128929664666681793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534118d1a0871950800000000000000
+      internalID: 6419741226443031380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roll - Sprite Sheet - Transparent BG_87
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 8
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1377f25783147930800000000000000
+      internalID: 4139955429393789726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roll - Sprite Sheet - Transparent BG_0: 2421714935165840217
+      Roll - Sprite Sheet - Transparent BG_1: -4541713083661321421
+      Roll - Sprite Sheet - Transparent BG_10: 707637225633307367
+      Roll - Sprite Sheet - Transparent BG_11: 7764930010135938064
+      Roll - Sprite Sheet - Transparent BG_12: 5414860983205822876
+      Roll - Sprite Sheet - Transparent BG_13: 6344553731053303278
+      Roll - Sprite Sheet - Transparent BG_14: 7718964737633967053
+      Roll - Sprite Sheet - Transparent BG_15: 4939642732733353951
+      Roll - Sprite Sheet - Transparent BG_16: -60857095506988556
+      Roll - Sprite Sheet - Transparent BG_17: -207390937146507154
+      Roll - Sprite Sheet - Transparent BG_18: -4397438371865437231
+      Roll - Sprite Sheet - Transparent BG_19: 7932203100121041809
+      Roll - Sprite Sheet - Transparent BG_2: 6553909312132549231
+      Roll - Sprite Sheet - Transparent BG_20: -7287793428397544483
+      Roll - Sprite Sheet - Transparent BG_21: 956785042216661167
+      Roll - Sprite Sheet - Transparent BG_22: 6271495365322285580
+      Roll - Sprite Sheet - Transparent BG_23: -32214098133332974
+      Roll - Sprite Sheet - Transparent BG_24: -5850201014920958529
+      Roll - Sprite Sheet - Transparent BG_25: 471126885248026618
+      Roll - Sprite Sheet - Transparent BG_26: 8046049581477741141
+      Roll - Sprite Sheet - Transparent BG_27: -2716646717490681050
+      Roll - Sprite Sheet - Transparent BG_28: -9035156006558035624
+      Roll - Sprite Sheet - Transparent BG_29: -4920401494639138812
+      Roll - Sprite Sheet - Transparent BG_3: -2573411134161089730
+      Roll - Sprite Sheet - Transparent BG_30: 2741390165157137203
+      Roll - Sprite Sheet - Transparent BG_31: 7799800021443193383
+      Roll - Sprite Sheet - Transparent BG_32: 1484296037135860448
+      Roll - Sprite Sheet - Transparent BG_33: 470124895043652918
+      Roll - Sprite Sheet - Transparent BG_34: -3480576773898445967
+      Roll - Sprite Sheet - Transparent BG_35: 7017723798530073510
+      Roll - Sprite Sheet - Transparent BG_36: 4481535630805628617
+      Roll - Sprite Sheet - Transparent BG_37: 6303388142012539076
+      Roll - Sprite Sheet - Transparent BG_38: -4191088035360063157
+      Roll - Sprite Sheet - Transparent BG_39: 600572504078935391
+      Roll - Sprite Sheet - Transparent BG_4: -8624923669459044972
+      Roll - Sprite Sheet - Transparent BG_40: -7728154415649155034
+      Roll - Sprite Sheet - Transparent BG_41: -5830123098819129363
+      Roll - Sprite Sheet - Transparent BG_42: -1024152366240103744
+      Roll - Sprite Sheet - Transparent BG_43: 9134237234201284252
+      Roll - Sprite Sheet - Transparent BG_44: 579251664026268078
+      Roll - Sprite Sheet - Transparent BG_45: -802339048503121625
+      Roll - Sprite Sheet - Transparent BG_46: 871860544550328338
+      Roll - Sprite Sheet - Transparent BG_47: 6315684998769405842
+      Roll - Sprite Sheet - Transparent BG_48: -999074392272763726
+      Roll - Sprite Sheet - Transparent BG_49: -6302512294124529949
+      Roll - Sprite Sheet - Transparent BG_5: -465190887230971199
+      Roll - Sprite Sheet - Transparent BG_50: 2760595791594129627
+      Roll - Sprite Sheet - Transparent BG_51: -4235575267934915911
+      Roll - Sprite Sheet - Transparent BG_52: 4944049693277015477
+      Roll - Sprite Sheet - Transparent BG_53: -7257001144919425504
+      Roll - Sprite Sheet - Transparent BG_54: -2554546452887192404
+      Roll - Sprite Sheet - Transparent BG_55: -5216767290902457628
+      Roll - Sprite Sheet - Transparent BG_56: -420329670793489818
+      Roll - Sprite Sheet - Transparent BG_57: -8864470772127868768
+      Roll - Sprite Sheet - Transparent BG_58: -3245598801707466141
+      Roll - Sprite Sheet - Transparent BG_59: 1491451823300467771
+      Roll - Sprite Sheet - Transparent BG_6: -9030218094651344998
+      Roll - Sprite Sheet - Transparent BG_60: 1926117920713293920
+      Roll - Sprite Sheet - Transparent BG_61: -4517431974512982716
+      Roll - Sprite Sheet - Transparent BG_62: -6976305465070996123
+      Roll - Sprite Sheet - Transparent BG_63: 4920985996232969777
+      Roll - Sprite Sheet - Transparent BG_64: 4171444683063770340
+      Roll - Sprite Sheet - Transparent BG_65: 5482751080891068547
+      Roll - Sprite Sheet - Transparent BG_66: 3300524040930477197
+      Roll - Sprite Sheet - Transparent BG_67: -4855855489365346947
+      Roll - Sprite Sheet - Transparent BG_68: 3486929576177530080
+      Roll - Sprite Sheet - Transparent BG_69: 2777340672113803546
+      Roll - Sprite Sheet - Transparent BG_7: 3884716825863356569
+      Roll - Sprite Sheet - Transparent BG_70: -6292746218753355193
+      Roll - Sprite Sheet - Transparent BG_71: -101657780132612031
+      Roll - Sprite Sheet - Transparent BG_72: 8584775921979652625
+      Roll - Sprite Sheet - Transparent BG_73: -5117238196518376849
+      Roll - Sprite Sheet - Transparent BG_74: 6710741733320894366
+      Roll - Sprite Sheet - Transparent BG_75: 1687569552085357836
+      Roll - Sprite Sheet - Transparent BG_76: 2562394111060842896
+      Roll - Sprite Sheet - Transparent BG_77: 7482913409451001907
+      Roll - Sprite Sheet - Transparent BG_78: -5952865184575042242
+      Roll - Sprite Sheet - Transparent BG_79: -1785597349660171623
+      Roll - Sprite Sheet - Transparent BG_8: 6885988474126623509
+      Roll - Sprite Sheet - Transparent BG_80: 3263657936582694635
+      Roll - Sprite Sheet - Transparent BG_81: -460082120005499255
+      Roll - Sprite Sheet - Transparent BG_82: 4755203844037758590
+      Roll - Sprite Sheet - Transparent BG_83: 4127844160501376651
+      Roll - Sprite Sheet - Transparent BG_84: 8731939414971466884
+      Roll - Sprite Sheet - Transparent BG_85: 7128929664666681793
+      Roll - Sprite Sheet - Transparent BG_86: 6419741226443031380
+      Roll - Sprite Sheet - Transparent BG_87: 4139955429393789726
+      Roll - Sprite Sheet - Transparent BG_9: 5038905910671696801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 3e95b7b28a2e82c4ca231a538ce5182d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1568940021463173997
+    second: run complete sprite sheet (transparent BG)_0
+  - first:
+      213: 352059527161845929
+    second: run complete sprite sheet (transparent BG)_1
+  - first:
+      213: 224800427283318873
+    second: run complete sprite sheet (transparent BG)_2
+  - first:
+      213: -7628983679166835739
+    second: run complete sprite sheet (transparent BG)_3
+  - first:
+      213: -2863880603896443448
+    second: run complete sprite sheet (transparent BG)_4
+  - first:
+      213: 4442127478670257476
+    second: run complete sprite sheet (transparent BG)_5
+  - first:
+      213: 4989102242044372558
+    second: run complete sprite sheet (transparent BG)_6
+  - first:
+      213: 7001221770429733999
+    second: run complete sprite sheet (transparent BG)_7
+  - first:
+      213: 8776750197921622346
+    second: run complete sprite sheet (transparent BG)_8
+  - first:
+      213: -3940368106995042817
+    second: run complete sprite sheet (transparent BG)_9
+  - first:
+      213: -907764104838724377
+    second: run complete sprite sheet (transparent BG)_10
+  - first:
+      213: -6749769989615240762
+    second: run complete sprite sheet (transparent BG)_11
+  - first:
+      213: 3398984455056221026
+    second: run complete sprite sheet (transparent BG)_12
+  - first:
+      213: 7482422258981331397
+    second: run complete sprite sheet (transparent BG)_13
+  - first:
+      213: -7664682983280484940
+    second: run complete sprite sheet (transparent BG)_14
+  - first:
+      213: -8021835441054753321
+    second: run complete sprite sheet (transparent BG)_15
+  - first:
+      213: 921696391065081051
+    second: run complete sprite sheet (transparent BG)_16
+  - first:
+      213: 2195518734982283201
+    second: run complete sprite sheet (transparent BG)_17
+  - first:
+      213: 3009995096346399336
+    second: run complete sprite sheet (transparent BG)_18
+  - first:
+      213: 2500461525973627894
+    second: run complete sprite sheet (transparent BG)_19
+  - first:
+      213: -2644347498619187308
+    second: run complete sprite sheet (transparent BG)_20
+  - first:
+      213: -5221786236112120490
+    second: run complete sprite sheet (transparent BG)_21
+  - first:
+      213: 7975099759038879489
+    second: run complete sprite sheet (transparent BG)_22
+  - first:
+      213: 7461741926668698523
+    second: run complete sprite sheet (transparent BG)_23
+  - first:
+      213: 1370377967092729531
+    second: run complete sprite sheet (transparent BG)_24
+  - first:
+      213: 6871632149765182027
+    second: run complete sprite sheet (transparent BG)_25
+  - first:
+      213: -8975997002016331527
+    second: run complete sprite sheet (transparent BG)_26
+  - first:
+      213: 5558922720490483974
+    second: run complete sprite sheet (transparent BG)_27
+  - first:
+      213: 8418179475151176552
+    second: run complete sprite sheet (transparent BG)_28
+  - first:
+      213: -658072467992494223
+    second: run complete sprite sheet (transparent BG)_29
+  - first:
+      213: -3570871430238848967
+    second: run complete sprite sheet (transparent BG)_30
+  - first:
+      213: 4376496226426049570
+    second: run complete sprite sheet (transparent BG)_31
+  - first:
+      213: 8998088368186244918
+    second: run complete sprite sheet (transparent BG)_32
+  - first:
+      213: -5121020655012276633
+    second: run complete sprite sheet (transparent BG)_33
+  - first:
+      213: 1640219071648178202
+    second: run complete sprite sheet (transparent BG)_34
+  - first:
+      213: -5615559194926843241
+    second: run complete sprite sheet (transparent BG)_35
+  - first:
+      213: 5149816107318735189
+    second: run complete sprite sheet (transparent BG)_36
+  - first:
+      213: -73366149676196995
+    second: run complete sprite sheet (transparent BG)_37
+  - first:
+      213: -3119823596944421971
+    second: run complete sprite sheet (transparent BG)_38
+  - first:
+      213: -8007422778936571383
+    second: run complete sprite sheet (transparent BG)_39
+  - first:
+      213: -6771414144950997186
+    second: run complete sprite sheet (transparent BG)_40
+  - first:
+      213: 8572617961696205696
+    second: run complete sprite sheet (transparent BG)_41
+  - first:
+      213: -6420935179190774314
+    second: run complete sprite sheet (transparent BG)_42
+  - first:
+      213: 3617134946765780475
+    second: run complete sprite sheet (transparent BG)_43
+  - first:
+      213: -8275096963080843614
+    second: run complete sprite sheet (transparent BG)_44
+  - first:
+      213: 8407917082576311728
+    second: run complete sprite sheet (transparent BG)_45
+  - first:
+      213: 4012413031451499024
+    second: run complete sprite sheet (transparent BG)_46
+  - first:
+      213: 7270237480561073928
+    second: run complete sprite sheet (transparent BG)_47
+  - first:
+      213: -8846361912974159290
+    second: run complete sprite sheet (transparent BG)_48
+  - first:
+      213: 8893507745088588921
+    second: run complete sprite sheet (transparent BG)_49
+  - first:
+      213: -6771257286308980612
+    second: run complete sprite sheet (transparent BG)_50
+  - first:
+      213: -5681203764049059964
+    second: run complete sprite sheet (transparent BG)_51
+  - first:
+      213: 6331431172775752267
+    second: run complete sprite sheet (transparent BG)_52
+  - first:
+      213: 5296636392426556362
+    second: run complete sprite sheet (transparent BG)_53
+  - first:
+      213: 7501617258130392262
+    second: run complete sprite sheet (transparent BG)_54
+  - first:
+      213: -7200990871693737934
+    second: run complete sprite sheet (transparent BG)_55
+  - first:
+      213: 786957574737957790
+    second: run complete sprite sheet (transparent BG)_56
+  - first:
+      213: -298349428618703857
+    second: run complete sprite sheet (transparent BG)_57
+  - first:
+      213: -2672715457766131638
+    second: run complete sprite sheet (transparent BG)_58
+  - first:
+      213: -8684944611133343278
+    second: run complete sprite sheet (transparent BG)_59
+  - first:
+      213: 6683552467799703685
+    second: run complete sprite sheet (transparent BG)_60
+  - first:
+      213: -3136856059027969876
+    second: run complete sprite sheet (transparent BG)_61
+  - first:
+      213: -4575634520218209362
+    second: run complete sprite sheet (transparent BG)_62
+  - first:
+      213: 8908154659803793387
+    second: run complete sprite sheet (transparent BG)_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc43d03aef5c510800000000000000
+      internalID: 1568940021463173997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 469
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a816405644c2e400800000000000000
+      internalID: 352059527161845929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 470
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958049d2cc6ae1300800000000000000
+      internalID: 224800427283318873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 466
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3120e83c7602690800000000000000
+      internalID: -7628983679166835739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 466
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0f95a3c37148d0800000000000000
+      internalID: -2863880603896443448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 468
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d642d086b95ad30800000000000000
+      internalID: 4442127478670257476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 468
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e8254e0adc3540800000000000000
+      internalID: 4989102242044372558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 468
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c123c2b16592160800000000000000
+      internalID: 7001221770429733999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 403
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492575cdc74dc970800000000000000
+      internalID: 8776750197921622346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 405
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5384a65100159c0800000000000000
+      internalID: -3940368106995042817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 403
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4cc3f2b59f663f0800000000000000
+      internalID: -907764104838724377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9346dc4fff352a0800000000000000
+      internalID: -6749769989615240762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 403
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26363b07a5e9b2f20800000000000000
+      internalID: 3398984455056221026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 405
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1ee06a667e6d760800000000000000
+      internalID: 7482422258981331397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 403
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdd5999f6391a590800000000000000
+      internalID: -7664682983280484940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 403
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddda49fa27bca090800000000000000
+      internalID: -8021835441054753321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 341
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4913cfbf58acc00800000000000000
+      internalID: 921696391065081051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 339
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf755838ac087e10800000000000000
+      internalID: 2195518734982283201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 339
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862156da796a5c920800000000000000
+      internalID: 3009995096346399336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 340
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37036828c63b220800000000000000
+      internalID: 2500461525973627894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 343
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4c1ad5f36d4bd0800000000000000
+      internalID: -2644347498619187308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 341
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655538f951d7887b0800000000000000
+      internalID: -5221786236112120490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 339
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d0d91afe3dae60800000000000000
+      internalID: 7975099759038879489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 340
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b930ab09fbe6d8760800000000000000
+      internalID: 7461741926668698523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 276
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb68590208f840310800000000000000
+      internalID: 1370377967092729531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 275
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4258e16801fc5f50800000000000000
+      internalID: 6871632149765182027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 276
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f868d5984ade6380800000000000000
+      internalID: -8975997002016331527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 276
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601fea803c2452d40800000000000000
+      internalID: 5558922720490483974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 276
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ced791a163d470800000000000000
+      internalID: 8418179475151176552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 275
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb7d4b39e0ed6f0800000000000000
+      internalID: -658072467992494223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 276
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938b50e7a57b17ec0800000000000000
+      internalID: -3570871430238848967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 276
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22456f851207cbc30800000000000000
+      internalID: 4376496226426049570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb05b62b1afdc70800000000000000
+      internalID: 8998088368186244918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661e8ab8da7ee8b0800000000000000
+      internalID: -5121020655012276633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10296f2e8a33c610800000000000000
+      internalID: 1640219071648178202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 212
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af43b2aa68112b0800000000000000
+      internalID: -5615559194926843241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 213
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517157f672d77740800000000000000
+      internalID: 5149816107318735189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 211
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b130620e95bfef0800000000000000
+      internalID: -73366149676196995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 211
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab0f36d7f824b4d0800000000000000
+      internalID: -3119823596944421971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_39
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 212
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4d1f586befd090800000000000000
+      internalID: -8007422778936571383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 147
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe32f26ba1702a0800000000000000
+      internalID: -6771414144950997186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 149
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1902dd9e08f670800000000000000
+      internalID: 8572617961696205696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 147
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5568e597144e6a0800000000000000
+      internalID: -6420935179190774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf530a6d115a23230800000000000000
+      internalID: 3617134946765780475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 147
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae07a9c723f82d80800000000000000
+      internalID: -8275096963080843614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b556ef1a0ceea470800000000000000
+      internalID: 8407917082576311728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 147
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a90d7b464fea730800000000000000
+      internalID: 4012413031451499024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_47
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 147
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd29d187215e460800000000000000
+      internalID: 7270237480561073928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64251aec5b86b3580800000000000000
+      internalID: -8846361912974159290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cc031ac261c6b70800000000000000
+      internalID: 8893507745088588921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 84
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7817ceaf59a702a0800000000000000
+      internalID: -6771257286308980612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 84
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5e33e64f4821b0800000000000000
+      internalID: -5681203764049059964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4232253b13cdd750800000000000000
+      internalID: 6331431172775752267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 85
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbcdf27cbe618940800000000000000
+      internalID: 5296636392426556362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44dc7a6291b1860800000000000000
+      internalID: 7501617258130392262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 82
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2304dd564f0f01c90800000000000000
+      internalID: -7200990871693737934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e931f87aeb5dbea00800000000000000
+      internalID: 786957574737957790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ccd3086cc0cdbf0800000000000000
+      internalID: -298349428618703857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 19
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48772aa37b98ead0800000000000000
+      internalID: -2672715457766131638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9347714e0e87780800000000000000
+      internalID: -8684944611133343278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 19
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58003e8fe8fb0cc50800000000000000
+      internalID: 6683552467799703685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca82b1ab806a774d0800000000000000
+      internalID: -3136856059027969876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f06885a41080c0800000000000000
+      internalID: -4575634520218209362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run complete sprite sheet (transparent BG)_63
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be788d5377f10ab70800000000000000
+      internalID: 8908154659803793387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run complete sprite sheet (transparent BG)_0: 1568940021463173997
+      run complete sprite sheet (transparent BG)_1: 352059527161845929
+      run complete sprite sheet (transparent BG)_10: -907764104838724377
+      run complete sprite sheet (transparent BG)_11: -6749769989615240762
+      run complete sprite sheet (transparent BG)_12: 3398984455056221026
+      run complete sprite sheet (transparent BG)_13: 7482422258981331397
+      run complete sprite sheet (transparent BG)_14: -7664682983280484940
+      run complete sprite sheet (transparent BG)_15: -8021835441054753321
+      run complete sprite sheet (transparent BG)_16: 921696391065081051
+      run complete sprite sheet (transparent BG)_17: 2195518734982283201
+      run complete sprite sheet (transparent BG)_18: 3009995096346399336
+      run complete sprite sheet (transparent BG)_19: 2500461525973627894
+      run complete sprite sheet (transparent BG)_2: 224800427283318873
+      run complete sprite sheet (transparent BG)_20: -2644347498619187308
+      run complete sprite sheet (transparent BG)_21: -5221786236112120490
+      run complete sprite sheet (transparent BG)_22: 7975099759038879489
+      run complete sprite sheet (transparent BG)_23: 7461741926668698523
+      run complete sprite sheet (transparent BG)_24: 1370377967092729531
+      run complete sprite sheet (transparent BG)_25: 6871632149765182027
+      run complete sprite sheet (transparent BG)_26: -8975997002016331527
+      run complete sprite sheet (transparent BG)_27: 5558922720490483974
+      run complete sprite sheet (transparent BG)_28: 8418179475151176552
+      run complete sprite sheet (transparent BG)_29: -658072467992494223
+      run complete sprite sheet (transparent BG)_3: -7628983679166835739
+      run complete sprite sheet (transparent BG)_30: -3570871430238848967
+      run complete sprite sheet (transparent BG)_31: 4376496226426049570
+      run complete sprite sheet (transparent BG)_32: 8998088368186244918
+      run complete sprite sheet (transparent BG)_33: -5121020655012276633
+      run complete sprite sheet (transparent BG)_34: 1640219071648178202
+      run complete sprite sheet (transparent BG)_35: -5615559194926843241
+      run complete sprite sheet (transparent BG)_36: 5149816107318735189
+      run complete sprite sheet (transparent BG)_37: -73366149676196995
+      run complete sprite sheet (transparent BG)_38: -3119823596944421971
+      run complete sprite sheet (transparent BG)_39: -8007422778936571383
+      run complete sprite sheet (transparent BG)_4: -2863880603896443448
+      run complete sprite sheet (transparent BG)_40: -6771414144950997186
+      run complete sprite sheet (transparent BG)_41: 8572617961696205696
+      run complete sprite sheet (transparent BG)_42: -6420935179190774314
+      run complete sprite sheet (transparent BG)_43: 3617134946765780475
+      run complete sprite sheet (transparent BG)_44: -8275096963080843614
+      run complete sprite sheet (transparent BG)_45: 8407917082576311728
+      run complete sprite sheet (transparent BG)_46: 4012413031451499024
+      run complete sprite sheet (transparent BG)_47: 7270237480561073928
+      run complete sprite sheet (transparent BG)_48: -8846361912974159290
+      run complete sprite sheet (transparent BG)_49: 8893507745088588921
+      run complete sprite sheet (transparent BG)_5: 4442127478670257476
+      run complete sprite sheet (transparent BG)_50: -6771257286308980612
+      run complete sprite sheet (transparent BG)_51: -5681203764049059964
+      run complete sprite sheet (transparent BG)_52: 6331431172775752267
+      run complete sprite sheet (transparent BG)_53: 5296636392426556362
+      run complete sprite sheet (transparent BG)_54: 7501617258130392262
+      run complete sprite sheet (transparent BG)_55: -7200990871693737934
+      run complete sprite sheet (transparent BG)_56: 786957574737957790
+      run complete sprite sheet (transparent BG)_57: -298349428618703857
+      run complete sprite sheet (transparent BG)_58: -2672715457766131638
+      run complete sprite sheet (transparent BG)_59: -8684944611133343278
+      run complete sprite sheet (transparent BG)_6: 4989102242044372558
+      run complete sprite sheet (transparent BG)_60: 6683552467799703685
+      run complete sprite sheet (transparent BG)_61: -3136856059027969876
+      run complete sprite sheet (transparent BG)_62: -4575634520218209362
+      run complete sprite sheet (transparent BG)_63: 8908154659803793387
+      run complete sprite sheet (transparent BG)_7: 7001221770429733999
+      run complete sprite sheet (transparent BG)_8: 8776750197921622346
+      run complete sprite sheet (transparent BG)_9: -3940368106995042817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
