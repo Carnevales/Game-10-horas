@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 1b59b311a8064ef40acabfd37cd493d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6236185842449212635
+    second: Entrada da cripta_0
+  - first:
+      213: -4865122831703048121
+    second: Entrada da cripta_1
+  - first:
+      213: -1693678534592175458
+    second: Entrada da cripta_2
+  - first:
+      213: 465376370185457062
+    second: Entrada da cripta_3
+  - first:
+      213: -5234229638853003730
+    second: Entrada da cripta_4
+  - first:
+      213: -7577577600578873804
+    second: Entrada da cripta_5
+  - first:
+      213: 7148907353578849729
+    second: Entrada da cripta_6
+  - first:
+      213: -6824810602947188471
+    second: Entrada da cripta_7
+  - first:
+      213: 2359587836505389781
+    second: Entrada da cripta_8
+  - first:
+      213: -5299989568339494464
+    second: Entrada da cripta_9
+  - first:
+      213: -8894950524843046249
+    second: Entrada da cripta_10
+  - first:
+      213: 7232160271165348714
+    second: Entrada da cripta_11
+  - first:
+      213: 3016482400100207440
+    second: Entrada da cripta_12
+  - first:
+      213: -182565295031168105
+    second: Entrada da cripta_13
+  - first:
+      213: -9132105066233145474
+    second: Entrada da cripta_14
+  - first:
+      213: -2752637683075887374
+    second: Entrada da cripta_15
+  - first:
+      213: -457434550635249192
+    second: Entrada da cripta_16
+  - first:
+      213: 981283315900282035
+    second: Entrada da cripta_17
+  - first:
+      213: -49618308311439811
+    second: Entrada da cripta_18
+  - first:
+      213: -2764044604784608807
+    second: Entrada da cripta_19
+  - first:
+      213: -5344480362254980971
+    second: Entrada da cripta_20
+  - first:
+      213: 2685564075008426020
+    second: Entrada da cripta_21
+  - first:
+      213: 8098745653752713485
+    second: Entrada da cripta_22
+  - first:
+      213: -751600584345819321
+    second: Entrada da cripta_23
+  - first:
+      213: -5727662821751799860
+    second: Entrada da cripta_24
+  - first:
+      213: -4991167871786681859
+    second: Entrada da cripta_25
+  - first:
+      213: 8153483344612535668
+    second: Entrada da cripta_26
+  - first:
+      213: -5874474980505867945
+    second: Entrada da cripta_27
+  - first:
+      213: 7266150107116546762
+    second: Entrada da cripta_28
+  - first:
+      213: -725723856026811825
+    second: Entrada da cripta_29
+  - first:
+      213: -3160940517792442293
+    second: Entrada da cripta_30
+  - first:
+      213: 1231737426498854719
+    second: Entrada da cripta_31
+  - first:
+      213: -3048962975131223011
+    second: Entrada da cripta_32
+  - first:
+      213: 1451003951275557399
+    second: Entrada da cripta_33
+  - first:
+      213: 2913288295670946368
+    second: Entrada da cripta_34
+  - first:
+      213: -4261289673986683732
+    second: Entrada da cripta_35
+  - first:
+      213: -6865294340040959017
+    second: Entrada da cripta_36
+  - first:
+      213: 6477932218708807575
+    second: Entrada da cripta_37
+  - first:
+      213: -1698421710217420402
+    second: Entrada da cripta_38
+  - first:
+      213: -2023915589918422833
+    second: Entrada da cripta_39
+  - first:
+      213: -1963162046750390268
+    second: Entrada da cripta_40
+  - first:
+      213: -7287337492869261990
+    second: Entrada da cripta_41
+  - first:
+      213: 7594098404253287858
+    second: Entrada da cripta_42
+  - first:
+      213: -814887944309796643
+    second: Entrada da cripta_43
+  - first:
+      213: -1059566121974628257
+    second: Entrada da cripta_44
+  - first:
+      213: -8371565499279408861
+    second: Entrada da cripta_45
+  - first:
+      213: -4260364948893301335
+    second: Entrada da cripta_46
+  - first:
+      213: -5697883816488544185
+    second: Entrada da cripta_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrada da cripta_0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b9e7b540e9479a0800000000000000
+      internalID: -6236185842449212635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 151
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74082b3af8c9b7cb0800000000000000
+      internalID: -4865122831703048121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 200
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ede5a858de78e0800000000000000
+      internalID: -1693678534592175458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adc3cfc759557600800000000000000
+      internalID: 465376370185457062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26785720e74c57b0800000000000000
+      internalID: -5234229638853003730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 65
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361a8be15907d690800000000000000
+      internalID: -7577577600578873804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 65
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5ce3e8c55063360800000000000000
+      internalID: 7148907353578849729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 65
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90963008ae66941a0800000000000000
+      internalID: -6824810602947188471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da7c3bb2a0feb020800000000000000
+      internalID: 2359587836505389781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c939d17197a276b0800000000000000
+      internalID: -5299989568339494464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4e0800a9ce8480800000000000000
+      internalID: -8894950524843046249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd081f27bcd5460800000000000000
+      internalID: 7232160271165348714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc039c2c2bcd920800000000000000
+      internalID: 3016482400100207440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935a59d4d5677df0800000000000000
+      internalID: -182565295031168105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77d0a383de344180800000000000000
+      internalID: -9132105066233145474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe48e08c9aacc9d0800000000000000
+      internalID: -2752637683075887374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1456523bdd6a9f0800000000000000
+      internalID: -457434550635249192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f04c0af73e9d00800000000000000
+      internalID: 981283315900282035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36adb65968bf4ff0800000000000000
+      internalID: -49618308311439811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d97a74931424a9d0800000000000000
+      internalID: -2764044604784608807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598adb24d6794d5b0800000000000000
+      internalID: -5344480362254980971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208d682c4a054520800000000000000
+      internalID: 2685564075008426020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015b2a5346846070800000000000000
+      internalID: 8098745653752713485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747671d2047c195f0800000000000000
+      internalID: -751600584345819321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfb54492014380b0800000000000000
+      internalID: -5727662821751799860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ffc3d34fcbbab0800000000000000
+      internalID: -4991167871786681859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47da1b527edf62170800000000000000
+      internalID: 8153483344612535668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7592709212ca97ea0800000000000000
+      internalID: -5874474980505867945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2953560d86d460800000000000000
+      internalID: 7266150107116546762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ce7c7ff5bde5f0800000000000000
+      internalID: -725723856026811825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4897d0b8551224d0800000000000000
+      internalID: -3160940517792442293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9403d9a2081110800000000000000
+      internalID: 1231737426498854719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3cf50458efa5d0800000000000000
+      internalID: -3048962975131223011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c77be760032410800000000000000
+      internalID: 1451003951275557399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a15c705441e6820800000000000000
+      internalID: 2913288295670946368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caccbf86e9bdcd4c0800000000000000
+      internalID: -4261289673986683732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbdb5feb2399b0a0800000000000000
+      internalID: -6865294340040959017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4237080d36e950800000000000000
+      internalID: 6477932218708807575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 5
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81eda3047efd68e0800000000000000
+      internalID: -1698421710217420402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8898f7e7b99e3e0800000000000000
+      internalID: -2023915589918422833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 5
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4080aee058271c4e0800000000000000
+      internalID: -1963162046750390268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a555423092d2eda90800000000000000
+      internalID: -7287337492869261990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_42
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c0ee6348a36960800000000000000
+      internalID: 7594098404253287858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd09aab6bbfe0b4f0800000000000000
+      internalID: -814887944309796643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500aa3d93aab41f0800000000000000
+      internalID: -1059566121974628257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_45
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3210989688932db80800000000000000
+      internalID: -8371565499279408861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a580bfb6a420e4c0800000000000000
+      internalID: -4260364948893301335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada da cripta_47
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d0ca8bdc0de0b0800000000000000
+      internalID: -5697883816488544185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Entrada da cripta_0: -6236185842449212635
+      Entrada da cripta_1: -4865122831703048121
+      Entrada da cripta_10: -8894950524843046249
+      Entrada da cripta_11: 7232160271165348714
+      Entrada da cripta_12: 3016482400100207440
+      Entrada da cripta_13: -182565295031168105
+      Entrada da cripta_14: -9132105066233145474
+      Entrada da cripta_15: -2752637683075887374
+      Entrada da cripta_16: -457434550635249192
+      Entrada da cripta_17: 981283315900282035
+      Entrada da cripta_18: -49618308311439811
+      Entrada da cripta_19: -2764044604784608807
+      Entrada da cripta_2: -1693678534592175458
+      Entrada da cripta_20: -5344480362254980971
+      Entrada da cripta_21: 2685564075008426020
+      Entrada da cripta_22: 8098745653752713485
+      Entrada da cripta_23: -751600584345819321
+      Entrada da cripta_24: -5727662821751799860
+      Entrada da cripta_25: -4991167871786681859
+      Entrada da cripta_26: 8153483344612535668
+      Entrada da cripta_27: -5874474980505867945
+      Entrada da cripta_28: 7266150107116546762
+      Entrada da cripta_29: -725723856026811825
+      Entrada da cripta_3: 465376370185457062
+      Entrada da cripta_30: -3160940517792442293
+      Entrada da cripta_31: 1231737426498854719
+      Entrada da cripta_32: -3048962975131223011
+      Entrada da cripta_33: 1451003951275557399
+      Entrada da cripta_34: 2913288295670946368
+      Entrada da cripta_35: -4261289673986683732
+      Entrada da cripta_36: -6865294340040959017
+      Entrada da cripta_37: 6477932218708807575
+      Entrada da cripta_38: -1698421710217420402
+      Entrada da cripta_39: -2023915589918422833
+      Entrada da cripta_4: -5234229638853003730
+      Entrada da cripta_40: -1963162046750390268
+      Entrada da cripta_41: -7287337492869261990
+      Entrada da cripta_42: 7594098404253287858
+      Entrada da cripta_43: -814887944309796643
+      Entrada da cripta_44: -1059566121974628257
+      Entrada da cripta_45: -8371565499279408861
+      Entrada da cripta_46: -4260364948893301335
+      Entrada da cripta_47: -5697883816488544185
+      Entrada da cripta_5: -7577577600578873804
+      Entrada da cripta_6: 7148907353578849729
+      Entrada da cripta_7: -6824810602947188471
+      Entrada da cripta_8: 2359587836505389781
+      Entrada da cripta_9: -5299989568339494464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
