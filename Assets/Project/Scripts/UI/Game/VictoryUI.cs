@@ -1,16 +1,17 @@
-﻿using UnityEngine;
+﻿using Assets.Project.Scripts.Managers;
+using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
-using Assets.Project.Scripts.Managers;
 
 namespace Assets.Project.Scripts.UI.Game
 {
     public class VictoryUI : MonoBehaviour
     {
-        public Text finalScoreText;
+        public TMP_Text finalScoreText;
 
         void OnEnable()
         {
-            if (finalScoreText != null) finalScoreText.text = GameManager.Instance != null ? GameManager.Instance.score.ToString() : "0";
+            if (finalScoreText != null) finalScoreText.text = GameManager.Instance != null ? GameManager.Instance.score.ToString() + "Pontos" : "0";
         }
 
         public void PlayAgain()

@@ -1,11 +1,12 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class GameUI : MonoBehaviour
 {
     public Slider healthSlider;
-    public Text scoreText;
-    public Text waveText;
+    public TMP_Text scoreText;
+    public TMP_Text waveText;
 
     public void SetHealth(int current, int max)
     {
@@ -14,11 +15,11 @@ public class GameUI : MonoBehaviour
 
     public void SetScore(int score)
     {
-        if (scoreText != null) scoreText.text = score.ToString();
+        if (scoreText != null) scoreText.text = $"{score} Pontos";
     }
 
     public void SetWave(int current, int total)
     {
-        if (waveText != null) waveText.text = $"Wave {current}/{total}";
+        if (waveText != null) waveText.text = $"Onda {current}/{total}";
     }
 }

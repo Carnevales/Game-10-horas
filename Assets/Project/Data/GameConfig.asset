@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: GameConfig
   m_EditorClassIdentifier: Assembly-CSharp::Assets.Project.Scripts.Data.GameConfig
   arenaMin: {x: -8, y: -4}
-  arenaMax: {x: 8, y: 4}
+  arenaMax: {x: 4, y: 2}
   playerSpawn: {x: 0, y: 0, z: 0}
   waves: 05000000080000000c000000
