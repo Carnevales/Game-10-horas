@@ -4,6 +4,7 @@ using Assets.Project.Scripts.Player;
 
 public class PlayerStatus : MonoBehaviour
 {
+    public static PlayerStatus Instance;
     public PlayerConfig playerConfig;
     public int maxHealth = 100;
     public int currentHealth;
@@ -21,6 +22,14 @@ public class PlayerStatus : MonoBehaviour
         if (currentHealth < 0) currentHealth = 0;
         UpdateUI();
         if (currentHealth <= 0) GameManager.Instance.PlayerDied();
+    }
+
+     public void TakeHealth(int amount)
+    {
+        if (currentHealth >= maxHealth) return;
+        currentHealth += amount;
+        UpdateUI();
+        if (currentHealth > maxHealth) currentHealth = maxHealth;
     }
 
     void UpdateUI()

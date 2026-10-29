@@ -15,6 +15,8 @@ namespace Assets.Project.Scripts.Managers
         public int enemiesAlive = 0;
 
         public GameUI gameUI;
+        public VictoryUI victoryScore;
+        public DefeatUI defeatScore;
         public GameObject victoryUI;
         public GameObject defeatUI;
 
@@ -35,6 +37,7 @@ namespace Assets.Project.Scripts.Managers
                 Win();
                 return;
             }
+            if(PlayerStatus.Instance != null) PlayerStatus.Instance.TakeHealth(25);
             currentWave++;
             enemiesAlive = gameConfig.waves[currentWave - 1];
             SpawnManager spawn = FindObjectOfType<SpawnManager>();
@@ -70,6 +73,8 @@ namespace Assets.Project.Scripts.Managers
             if (gameUI != null)
             {
                 gameUI.SetScore(score);
+                defeatScore.SetScore(score);
+                victoryScore.SetScore(score);
                 gameUI.SetWave(currentWave, gameConfig.waves.Length);
             }
         }
